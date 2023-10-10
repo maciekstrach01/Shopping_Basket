@@ -1,0 +1,30 @@
+C:\Users\Maciek\Desktop\shopping basket\bin\Debug\net7.0\shopping basket.exe
+C:\Users\Maciek\Desktop\shopping basket\bin\Debug\net7.0\shopping basket.deps.json
+C:\Users\Maciek\Desktop\shopping basket\bin\Debug\net7.0\shopping basket.runtimeconfig.json
+C:\Users\Maciek\Desktop\shopping basket\bin\Debug\net7.0\shopping basket.dll
+C:\Users\Maciek\Desktop\shopping basket\bin\Debug\net7.0\shopping basket.pdb
+C:\Users\Maciek\Desktop\shopping basket\obj\Debug\net7.0\shopping basket.csproj.AssemblyReference.cache
+C:\Users\Maciek\Desktop\shopping basket\obj\Debug\net7.0\shopping basket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maciek\Desktop\shopping basket\obj\Debug\net7.0\shopping basket.AssemblyInfoInputs.cache
+C:\Users\Maciek\Desktop\shopping basket\obj\Debug\net7.0\shopping basket.AssemblyInfo.cs
+C:\Users\Maciek\Desktop\shopping basket\obj\Debug\net7.0\shopping basket.csproj.CoreCompileInputs.cache
+C:\Users\Maciek\Desktop\shopping basket\obj\Debug\net7.0\shopping basket.dll
+C:\Users\Maciek\Desktop\shopping basket\obj\Debug\net7.0\refint\shopping basket.dll
+C:\Users\Maciek\Desktop\shopping basket\obj\Debug\net7.0\shopping basket.pdb
+C:\Users\Maciek\Desktop\shopping basket\obj\Debug\net7.0\shopping basket.genruntimeconfig.cache
+C:\Users\Maciek\Desktop\shopping basket\obj\Debug\net7.0\ref\shopping basket.dll
+C:\projects\C#\shopping basket cs\bin\Debug\net7.0\shopping basket.exe
+C:\projects\C#\shopping basket cs\bin\Debug\net7.0\shopping basket.deps.json
+C:\projects\C#\shopping basket cs\bin\Debug\net7.0\shopping basket.runtimeconfig.json
+C:\projects\C#\shopping basket cs\bin\Debug\net7.0\shopping basket.dll
+C:\projects\C#\shopping basket cs\bin\Debug\net7.0\shopping basket.pdb
+C:\projects\C#\shopping basket cs\obj\Debug\net7.0\shopping basket.csproj.AssemblyReference.cache
+C:\projects\C#\shopping basket cs\obj\Debug\net7.0\shopping basket.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\C#\shopping basket cs\obj\Debug\net7.0\shopping basket.AssemblyInfoInputs.cache
+C:\projects\C#\shopping basket cs\obj\Debug\net7.0\shopping basket.AssemblyInfo.cs
+C:\projects\C#\shopping basket cs\obj\Debug\net7.0\shopping basket.csproj.CoreCompileInputs.cache
+C:\projects\C#\shopping basket cs\obj\Debug\net7.0\shopping basket.dll
+C:\projects\C#\shopping basket cs\obj\Debug\net7.0\refint\shopping basket.dll
+C:\projects\C#\shopping basket cs\obj\Debug\net7.0\shopping basket.pdb
+C:\projects\C#\shopping basket cs\obj\Debug\net7.0\shopping basket.genruntimeconfig.cache
+C:\projects\C#\shopping basket cs\obj\Debug\net7.0\ref\shopping basket.dll
